@@ -1,38 +1,38 @@
 [
     {
-        "image": "../assets/docker.png", 
+        "image": "assets/docker.png", 
         "name": "docker"
     },
     {
-        "image": "../assets/git.png", 
+        "image": "assets/git.png", 
         "name": "git"
     },
     {
-        "image": "../assets/java.png", 
+        "image": "assets/java.png", 
         "name": "java"
     },
     {
-        "image": "../assets/js.png", 
+        "image": "assets/js.png", 
         "name": "js"
     },
     {
-        "image": "../assets/linux.png", 
+        "image": "assets/linux.png", 
         "name": "linux"
     },
     {
-        "image": "../assets/psql.png", 
+        "image": "assets/psql.png", 
         "name": "psql"
     },
     {
-        "image": "../assets/spring.png", 
+        "image": "assets/spring.png", 
         "name": "spring"
     },
     {
-        "image": "../assets/typescript.png", 
+        "image": "assets/typescript.png", 
         "name": "typescript"
     },
     {
-        "image": "../assets/css.png", 
+        "image": "assets/css.png", 
         "name": "css"
     }
 ]
